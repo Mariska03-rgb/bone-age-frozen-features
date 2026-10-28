@@ -1,0 +1,11 @@
+numpy>=2.1
+pandas>=2.2
+scipy>=1.16
+scikit-learn==1.6.1
+xgboost>=3.0
+torch>=2.5
+torchvision>=0.20
+opencv-python>=4.10
+matplotlib>=3.8
+tqdm
+psutil
